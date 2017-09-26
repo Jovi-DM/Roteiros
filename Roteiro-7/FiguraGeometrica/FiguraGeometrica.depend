@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1506435564 source:c:\users\luiz henrique\documents\roteiros\roteiro-7\figurageometrica\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
+1506431997 source:c:\users\luiz henrique\documents\roteiros\roteiro-7\figurageometrica\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1506436336 c:\users\luiz henrique\documents\roteiros\roteiro-7\figurageometrica\include\figurageometrica.h
+	<string>
+	<iostream>
+
+1506434536 source:c:\users\luiz henrique\documents\roteiros\roteiro-7\figurageometrica\src\circulo.cpp
+	"Circulo.h"
+
+1506436047 c:\users\luiz henrique\documents\roteiros\roteiro-7\figurageometrica\include\circulo.h
+	"FiguraGeometrica.h"
+
+1506434539 source:c:\users\luiz henrique\documents\roteiros\roteiro-7\figurageometrica\src\quadrado.cpp
+	"Quadrado.h"
+
+1506434728 c:\users\luiz henrique\documents\roteiros\roteiro-7\figurageometrica\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1506435781 source:c:\users\luiz henrique\documents\roteiros\roteiro-7\figurageometrica\src\triangulo.cpp
+	"Triangulo.h"
+
+1506435802 c:\users\luiz henrique\documents\roteiros\roteiro-7\figurageometrica\include\triangulo.h
+	"FiguraGeometrica.h"
+
