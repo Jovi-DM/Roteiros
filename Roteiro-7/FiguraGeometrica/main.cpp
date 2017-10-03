@@ -14,6 +14,7 @@ int main()
     a[0] = new Quadrado();
     a[1] = new Triangulo();
     a[2] = new Circulo();
+
     string k;
     while (1){
         cout << "Digite 1 para calcular area do quadrado 2 para triangulo 3 para circulo e 0 para sair"<< endl;

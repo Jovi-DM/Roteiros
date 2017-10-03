@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1506616132 source:c:\users\luiz henrique\documents\roteiros\roteiro-7\funcionario\consultor.cpp
+	"Consultor.h"
+	<iostream>
+
+1506616132 c:\users\luiz henrique\documents\roteiros\roteiro-7\funcionario\consultor.h
+	"Funcionario.h"
+
+1506616132 c:\users\luiz henrique\documents\roteiros\roteiro-7\funcionario\funcionario.h
+	<string>
+
+1506616132 source:c:\users\luiz henrique\documents\roteiros\roteiro-7\funcionario\funcionario.cpp
+	"Funcionario.h"
+	<string>
+
+1506616132 source:c:\users\luiz henrique\documents\roteiros\roteiro-7\funcionario\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Consultor.h"
+	"MinhaEmpresa.h"
+
+1506616132 c:\users\luiz henrique\documents\roteiros\roteiro-7\funcionario\minhaempresa.h
+	"Funcionario.h"
+	"Consultor.h"
+
+1506616132 source:c:\users\luiz henrique\documents\roteiros\roteiro-7\funcionario\minhaempresa.cpp
+	"MinhaEmpresa.h"
+
