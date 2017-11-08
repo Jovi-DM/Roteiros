@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1510095436 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\src\assalariado.cpp
+	"Assalariado.h"
+
+1510095446 c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\include\assalariado.h
+	"Funcionario.h"
+
+1510095513 c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\include\funcionario.h
+	<string>
+
+1510095551 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\src\comissionado.cpp
+	"Comissionado.h"
+
+1510095544 c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\include\comissionado.h
+	"Funcionario.h"
+	<string>
+
+1510095520 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\src\funcionario.cpp
+	"Funcionario.h"
+
+1510095484 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\src\horista.cpp
+	"Horista.h"
+
+1510095475 c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\include\horista.h
+	"Funcionario.h"
+
+1510095363 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\src\sistemagerenciarfolha.cpp
+	"SistemaGerenciarFolha.h"
+
+1510095329 c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\include\sistemagerenciarfolha.h
+	<string>
+	<iostream>
+	"Funcionario.h"
+	"Assalariado.h"
+	"Comissionado.h"
+	"Horista.h"
+
+1510095604 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\questão-3\folhapagamento\main.cpp
+	<iostream>
+	"SistemaGerenciarFolha.h"
+
+1510095604 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\main.cpp
+	<iostream>
+	"SistemaGerenciarFolha.h"
+
+1510095329 c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\include\sistemagerenciarfolha.h
+	<string>
+	<iostream>
+	"Funcionario.h"
+	"Assalariado.h"
+	"Comissionado.h"
+	"Horista.h"
+
+1510095513 c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\include\funcionario.h
+	<string>
+
+1510095446 c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\include\assalariado.h
+	"Funcionario.h"
+
+1510095544 c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\include\comissionado.h
+	"Funcionario.h"
+	<string>
+
+1510095475 c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\include\horista.h
+	"Funcionario.h"
+
+1510095436 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\src\assalariado.cpp
+	"Assalariado.h"
+
+1510095551 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\src\comissionado.cpp
+	"Comissionado.h"
+
+1510095520 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\src\funcionario.cpp
+	"Funcionario.h"
+
+1510095484 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\src\horista.cpp
+	"Horista.h"
+
+1510095912 source:c:\users\joan vitor\onedrive\documentos\github\roteiros\roteiro-8\folhadepagamento\folhapagamento\src\sistemagerenciarfolha.cpp
+	"SistemaGerenciarFolha.h"
+
