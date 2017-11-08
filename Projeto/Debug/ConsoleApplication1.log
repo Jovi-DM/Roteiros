@@ -1,3 +1,1 @@
-﻿  stdafx.cpp
-  ConsoleApplication1.cpp
-  ConsoleApplication1.vcxproj -> C:\Users\Luiz Henrique\Documents\Roteiros\Projeto\Debug\ConsoleApplication1.exe
+﻿LINK : fatal error LNK1168: não foi possível abrir C:\Users\Luiz Henrique\Documents\Roteiros\Projeto\Debug\ConsoleApplication1.exe para escrita
